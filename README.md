@@ -1,11 +1,11 @@
-## HOLA BIENVENIDOS
+## ABOUT ME:
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
 ![DEVZUSE GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVZUSE&show_icons=true)
 
-## Tecnologias que uso
+## I CODE WITH:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
