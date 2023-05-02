@@ -1,7 +1,6 @@
 ## ABOUT ME:
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+Hey, how are you? I'm a student in the back-end programming area. I am looking for new projects to focus on, I will be publishing various repositories and projects based on Js, Css, Python, Html5 and C++.
 
 ![DEVZUSE GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVZUSE&show_icons=true)
 
