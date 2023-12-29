@@ -1,6 +1,6 @@
 ## ABOUT ME:
 
-Hey, how are you? I'm a student in the back-end programming area. I am looking for new projects to focus on, I will be publishing various repositories and projects based on Js, Css, Python, Html5 and C++.
+Hey, how are you? I'm a student in the front end programming area. I am looking for new projects to focus on, I will be publishing various repositories and projects based on Js, Css, Python, Html5 and C++.
 
 ![DEVZUSE GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVZUSE&show_icons=true)
 
